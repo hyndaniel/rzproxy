@@ -1,3 +1,4 @@
+#hyn zui nb
 #!usr/bin/env python
 import sys
 import logging
